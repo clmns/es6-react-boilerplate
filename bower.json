@@ -1,0 +1,29 @@
+{
+  "name": "es6-react-boilerplate",
+  "description": "Test",
+  "main": "index.html",
+  "authors": [
+    "Clemens Ehrenreich"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jsx",
+    "react",
+    "es6"
+  ],
+  "homepage": "https://github.com/clmns/es6-react-bootstrap-boilerplate",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}

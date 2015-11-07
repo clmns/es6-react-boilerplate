@@ -1,0 +1,30 @@
+{
+  "name": "reactTest",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsx",
+    "react",
+    "es6"
+  ],
+  "author": "Clemens Ehrenreich",
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browser-sync": "^2.9.12",
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "react-bootstrap": "^0.27.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "peerDependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
+}
